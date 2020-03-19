@@ -1,0 +1,17 @@
+{
+    "manifest_version": 2,
+    "name": "Mollusk",
+    "version": "2.0.20",
+    "description": "Connect with I_am_Prime on Github and view his available Repos.",
+
+    "icons":{
+        "250":"a.png"
+    },
+
+    "app":{
+        "urls":["https://github.com/"],
+        "launch":{
+            "web_url": "https://github.com/IamPrime"
+        }
+    }
+}
